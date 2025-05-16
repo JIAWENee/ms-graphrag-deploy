@@ -29,8 +29,7 @@ ssh -L 8888:localhost:8888 root@远程服务器IP
 
 3. **安装依赖**
 ```
-pip install graphrag==0.5.0
-pip install --upgrade jupyter ipywidgets
+pip install -r requirements.txt
 ```
 
 > 本实验环境基于 Ubuntu 系统。大多数操作方法亦可直接迁移至 Windows 系统。
