@@ -1,2 +1,5 @@
 .idea/
 .env
+test_code/
+data/
+output/
